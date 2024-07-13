@@ -70,11 +70,11 @@ education:
         university: Universität des Saarlandes
         time: 2020 - 2023
         details: |
-            - Module - Compiler Construction (writing own c compiler using llvm)
-            - Seminar - Writing higher level tensor dialect in Thorin2 with lowering to llvm
+            - Module - Compiler Construction (writing own C compiler in C++ using llvm)
+            - Seminar - Writing higher level tensor dialect in Thorin2 with lowering to LLVM
             - Thesis - Automatic Differentiation of Affine Loops and Pointers in Thorin2
       - degree: BSc in Applied Computer Science
-        university: Bristol University
+        university: HTW Saar
         time: 2016 - 2020
         details: |
             - Thesis - Integration of a semantic search engine in the area of automobile
