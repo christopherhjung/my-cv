@@ -5,17 +5,17 @@
 sidebar:
     position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Christopher Jung
-    tagline: Compiler Engineer
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: christopher.hendrik.jung@gmail.com
     phone: 0177/3330490
-    timezone: America/Cancun Timezone
+    timezone: Germany/Berlin Timezone
     citizenship:
     website:
     linkedin:
@@ -50,15 +50,17 @@ sidebar:
         - item: Cooking
           link:
 
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My area of interest are compilers and programming languages.
+      
+      The process of transforming high-level code into efficient machine code both being challenging and exhilarating.
+      
+      In my master thesis i implemented an automatic differentiation dialect that showed me the potential of compiler optimizations.
+      
+      This fascination has driven me to delve deeply into compiler design and optimization techniques, constantly seeking to enhance my understanding and skills in this field.
 education:
     title: Education
     info:
@@ -66,12 +68,14 @@ education:
         university: Universität des Saarlandes
         time: 2020 - 2023
         details: |
-          Automatic Differentiation of Affine Loops and Pointers in Thorin2
-      - degree: BSc in Applied Mathematics
+            - Module - Compiler Construction (writing own c compiler using llvm)
+            - Seminar - Writing higher level tensor dialect in Thorin2 with lowering to llvm
+            - Thesis - Automatic Differentiation of Affine Loops and Pointers in Thorin2
+      - degree: BSc in Applied Computer Science
         university: Bristol University
         time: 2016 - 2020
         details: |
-          Integration of a semantic search engine in the area of automobile
+            - Thesis - Integration of a semantic search engine in the area of automobile
 
 experiences:
     title: Experiences
@@ -80,8 +84,8 @@ experiences:
         time: 2020 - Present
         company: Bosch Homburg
         details: |
-            - 
-            - Prolog Rule Engine
+            - Prolog Rule Engine (Java)
+            - Vision Evaluation Platform (C++)
       - role: Practical Student
         time: 2016 - 2020
         company: Bosch Homburg
@@ -89,44 +93,16 @@ experiences:
             - C#/.Net Applications
             - Java Microservices
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Java/Kotlin
         level: 98%
-
       - name: C/C++
         level: 90%
-
       - name: LLVM
         level: 70%
 
-
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
