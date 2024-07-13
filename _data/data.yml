@@ -54,11 +54,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      My area of interest are compilers and programming languages.
+      I love compilers and programming languages. 
       
-      The process of transforming high-level code into efficient machine code both being challenging and exhilarating.
+      Compilers are intriguing because they act as the magical translators between human creativity and machine precision, transforming our abstract code into executable reality. 
       
-      In my master thesis i implemented an automatic differentiation dialect that showed me the potential of compiler optimizations.
+      Their ability to optimize and refine code feels like magic, making programs not just functional but efficient. 
+      
+      Exploring compilers reveals a world where logical rigor meets creative problem-solving, sparking endless fascination.
       
       This fascination has driven me to delve deeply into compiler design and optimization techniques, constantly seeking to enhance my understanding and skills in this field.
 education:
