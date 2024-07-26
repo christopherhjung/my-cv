@@ -34,21 +34,15 @@ sidebar:
       info:
         - idiom: German
           level: Native
-
         - idiom: English
           level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
+        - item: Programming
+        - item: Bouldering
         - item: Mountainbiking
-          link:
-
         - item: Cooking
-          link:
 
 
 career-profile:
