@@ -8,7 +8,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Christopher Jung
+    name: CHRISTOPHER JUNG
     tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -54,15 +54,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I love compilers and programming languages. 
-      
-      Compilers are intriguing because they act as the magical translators between human creativity and machine precision, transforming our abstract code into executable reality. 
-      
-      Their ability to optimize and refine code feels like magic, making programs not just functional but efficient. 
-      
-      Exploring compilers reveals a world where logical rigor meets creative problem-solving, sparking endless fascination.
-      
-      This fascination has driven me to delve deeply into compiler design and optimization techniques, constantly seeking to enhance my understanding and skills in this field.
+        Compilers are intriguing to me because they act as the translators between human creativity and machine precision, transforming our abstract code into executable reality.
+        
+        Their ability to optimize and refine code offers interresting challenges that I am eager to solve.
+        
+        Exploring compilers reveals a world where logical rigor meets creative problem-solving, sparking my fascination.
+        
+        This fascination has driven me to delve deeply into compiler design and optimization techniques, constantly seeking to enhance my understanding and skills in this field not only on the job but also as a hobby.
+        
+        Currently I work on writing my own programming language using LLVM to get a deeper understanding of all the aspects compilers are made of.
 education:
     title: Education
     info:
@@ -70,7 +70,7 @@ education:
         university: Universität des Saarlandes
         time: 2020 - 2023
         details: |
-            - Module - Compiler Construction (writing own C compiler in C++ using llvm)
+            - Module - Compiler Construction (writing own C compiler in C++ using LLVM)
             - Seminar - Writing higher level tensor dialect in Thorin2 with lowering to LLVM
             - Thesis - Automatic Differentiation of Affine Loops and Pointers in Thorin2
       - degree: BSc in Applied Computer Science
